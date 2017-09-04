@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D1 Old Footprint=DIODE-0.7 New Footprint=DO-214
+Change Component Footprint: Designator=D2 Old Footprint=DIODE-0.7 New Footprint=DO-214
+Change Component Comment : Designator=D1 Old Comment=1n5819 New Comment=Diode S
+Change Component Comment : Designator=D2 Old Comment=1n5819 New Comment=Diode S
+Added Room: Name=Plasma Speaker SMD
