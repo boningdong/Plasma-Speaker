@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=R10 Old Footprint=AXIAL-0.3 New Footprint=SOT23_L
-Change Component Footprint: Designator=R11 Old Footprint=AXIAL-0.3 New Footprint=SOT23_L
-Added Pin To Net: NetName=LS1 Pin=R10-3
-Added Pin To Net: NetName=LS1 Pin=R11-3
